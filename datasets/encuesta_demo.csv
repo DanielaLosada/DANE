@@ -1,0 +1,8 @@
+anio,mes,departamento,municipio,hogar_id,ingreso_total,personas
+2024,6,Quindio,Armenia,101,1800000.0,4
+2024,6,Quindio,Montenegro,102,950000.0,3
+2024,7,Quindio,Armenia,103,1200000.0,5
+2025,1,Quindio,Armenia,104,0.0,2
+2025,1,Quindio,Montenegro,105,2100000.0,4
+2025,2,Quindio,Armenia,106,1600000.0,3
+2025,2,Quindio,Calarca,107,,4

@@ -1,0 +1,61 @@
+anio,mes,departamento,municipio,hogar_id,ingreso_total,personas
+2024,1,Quindío,Montenegro,1,1426442,4
+2024,11,Quindío,Calarcá,2,1538794,2
+2024,5,Quindío,La Tebaida,3,1615420,1
+2024,6,Quindío,Armenia,4,1608390,5
+2024,10,Quindío,Montenegro,5,1435522,5
+2024,1,Quindío,Calarcá,6,1194813,3
+2024,3,Quindío,La Tebaida,7,1365782,5
+2024,5,Quindío,Armenia,8,1527264,4
+2024,6,Quindío,Montenegro,9,1368006,5
+2024,11,Quindío,Calarcá,10,1567553,4
+2024,10,Quindío,La Tebaida,11,1665584,2
+2024,1,Quindío,Armenia,12,1725361,3
+2024,5,Quindío,Montenegro,13,1470804,1
+2024,2,Quindío,Calarcá,14,1714806,3
+2024,4,Quindío,La Tebaida,15,1501022,5
+2024,7,Quindío,Armenia,16,1253953,5
+2024,6,Quindío,Montenegro,17,1065591,2
+2024,3,Quindío,Calarcá,18,1532876,4
+2024,5,Quindío,La Tebaida,19,1852332,4
+2024,12,Quindío,Armenia,20,1441695,2
+2024,7,Quindío,Montenegro,21,1247679,1
+2024,12,Quindío,Calarcá,22,1468704,2
+2024,12,Quindío,La Tebaida,23,1372187,1
+2024,6,Quindío,Armenia,24,1421443,1
+2024,5,Quindío,Montenegro,25,1356363,3
+2024,11,Quindío,Calarcá,26,1505609,1
+2024,5,Quindío,La Tebaida,27,1511069,1
+2024,8,Quindío,Armenia,28,1383318,3
+2024,7,Quindío,Montenegro,29,1202365,5
+2024,1,Quindío,Calarcá,30,1696875,2
+2025,5,Quindío,La Tebaida,31,1588377,3
+2025,5,Quindío,Armenia,32,1488276,3
+2025,12,Quindío,Montenegro,33,1507872,2
+2025,7,Quindío,Calarcá,34,1873021,3
+2025,7,Quindío,La Tebaida,35,1457660,5
+2025,10,Quindío,Armenia,36,1635091,3
+2025,7,Quindío,Montenegro,37,1557672,3
+2025,12,Quindío,Calarcá,38,1790592,1
+2025,5,Quindío,La Tebaida,39,1940781,4
+2025,2,Quindío,Armenia,40,1500050,3
+2025,6,Quindío,Montenegro,41,1625668,1
+2025,12,Quindío,Calarcá,42,1475904,1
+2025,11,Quindío,La Tebaida,43,1928360,2
+2025,1,Quindío,Armenia,44,1470406,5
+2025,4,Quindío,Montenegro,45,1400973,5
+2025,5,Quindío,Calarcá,46,1684488,5
+2025,10,Quindío,La Tebaida,47,1846915,4
+2025,7,Quindío,Armenia,48,1696223,1
+2025,4,Quindío,Montenegro,49,1863133,1
+2025,3,Quindío,Calarcá,50,1539281,1
+2025,8,Quindío,La Tebaida,51,1765254,3
+2025,1,Quindío,Armenia,52,1496846,5
+2025,11,Quindío,Montenegro,53,1540547,2
+2025,7,Quindío,Calarcá,54,1543759,5
+2025,10,Quindío,La Tebaida,55,1553121,4
+2025,10,Quindío,Armenia,56,1771077,4
+2025,9,Quindío,Montenegro,57,1877177,2
+2025,8,Quindío,Calarcá,58,1524448,2
+2025,8,Quindío,La Tebaida,59,1470720,4
+2025,3,Quindío,Armenia,60,1542935,4
